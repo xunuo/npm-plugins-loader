@@ -1,0 +1,10 @@
+{
+  "name": "npm-plugins-loader",
+  "author": "xunuo <i@xunuo.com>",
+  "version": "1.0.0",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "merge": "^1.2.0",
+    "shelljs": "~0.5.3"
+  }
+}

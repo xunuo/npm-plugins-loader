@@ -1,7 +1,3 @@
-# npm-plugins-loader
-npm plugins loader
-
-```
 // require
 var NpmPluginsLoader = require('./index.js');
 
@@ -20,4 +16,3 @@ var pluginsLoader = new NpmPluginsLoader({
 
 // start load them with configs.
 pluginsLoader.load();
-```
